@@ -1,0 +1,12 @@
+*~
+*.pdf
+*.mat
+*.pyc
+config.m
+figures/
+config/
+config_distributed/
+config_distributed.m
+/coses.txt
+results/
+fig/
